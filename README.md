@@ -3,6 +3,7 @@
 ### 🛠 Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat-square)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white&style=flat-square)
 
 <br>
 
