@@ -1,7 +1,7 @@
 ### Hello! 👋 Welcome to My GitHub Profile!
 ### 🛠 Tools & Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://i.imgur.com/yourCustomCircularBadge.png)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight)
 ### 📬 Contact Me
