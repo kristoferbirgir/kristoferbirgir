@@ -2,7 +2,6 @@
 
 I’m Kristoferbirgir, a third-year computer science student passionate about exploring the latest in technology and software development. My focus areas include full-stack development, algorithms, and building efficient, user-friendly applications. I’m constantly working on projects that challenge me to learn and grow, and I enjoy collaborating with others to bring innovative ideas to life.
 
-Feel free to check out my projects below, connect with me, or explore some of my favorite tools and technologies!
 
 
 ### 🛠 Tools & Technologies
