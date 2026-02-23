@@ -1,13 +1,29 @@
-### Hello! 👋 Welcome to My GitHub Profile!
+# 👋 Hi, I'm Kristofer
 
-I’m Kristoferbirgir, a third-year computer science student passionate about exploring the latest in technology and software development. My focus areas include full-stack development, algorithms, and building efficient, user-friendly applications. I’m constantly working on projects that challenge me to learn and grow, and I enjoy collaborating with others to bring innovative ideas to life.
+🎓 MSc Computer Science & Engineering @ DTU  
+🇮🇸 Icelandic
 
+---
 
+I build structured, scalable systems at the intersection of AI, finance, and software engineering.
 
-### 🛠 Tools & Technologies
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)
+Interested in:
+- AI
+- Healtcare solutions
+- FinTech & financial infrastructure
+- Cybersecurity & cryptography
+- Full-stack architecture
+
+---
+
+## 🛠 Tech
+TypeScript • React • Next.js • NestJS • Python • Java • C# • PostgreSQL • Docker to name a few 
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kristoferbirgir&theme=tokyonight)
+
+---
 
 <br>
 
